@@ -1,0 +1,31 @@
+.header-container{
+    background-color: transparent;
+}
+.logo-container{
+    background-color: transparent;
+    text-align: left;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.logo{
+    background-color: #1759B2 ;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    text-align: center;
+}
+.logo-label{
+    color: white;
+    font-size: 17px;
+    margin: auto;
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%); 
+   
+}
+.horizontal-line{
+  padding-top: 10px;
+  padding-bottom: 0px;
+  border-bottom: 1px solid #1759B2;
+}
+
